@@ -13,6 +13,7 @@ The Cat Randomizer application is a project that aims to display some informatio
 - Displays random pictures of cute cats.
 - Displays information about cats, such as name, breed and description based on the breed selected.
 - There is a button to obtain complete cat data.
+- There is a button to download cat pictures.
 
 ## Installation
 
