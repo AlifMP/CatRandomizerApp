@@ -1,0 +1,68 @@
+#cutes-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, auto));
+  align-items: center;
+  gap: 1.5rem;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.row-img {
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.row-img img {
+  width: 100%;
+  height: 400px;
+  display: block;
+  transition: transform 0.5s;
+  margin: 10px;
+}
+
+.layer {
+  width: 100%;
+  height: 0;
+  background: linear-gradient(rgba(0, 0, 0, 0.1), #ff191988);
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 0 40px;
+  transition: height 0.5s;
+}
+
+.layer button {
+  color: #fff;
+  margin-top: 20px;
+  font-size: 20px;
+  background: #dddddd22;
+  width: 80%;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  outline: none;
+  border-radius: 3px;
+  border: 1px solid rgb(255, 255, 255);
+  transition: all 0.2s ease-in-out;
+}
+
+.layer button:hover {
+  background: #ffffff49;
+}
+
+.row-img:hover img {
+  transform: scale(1.1);
+}
+
+.row-img:hover .layer {
+  height: 100%;
+}
