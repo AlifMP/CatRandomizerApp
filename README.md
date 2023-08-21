@@ -41,6 +41,4 @@ The Cat Randomizer application is a project that aims to display some informatio
 
 ---
 
-Made with ❤️ by
-
-![Alif Maulana P](https://github.com/AlifMP.png?size=100)(https://github.com/AlifMP).
+Made with ❤️ by [![Alif Maulana P](https://github.com/AlifMP.png?size=100)](https://github.com/AlifMP).
