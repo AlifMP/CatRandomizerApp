@@ -58,11 +58,6 @@ $("#select-cutes").on("change", function () {
       },
     });
   } else {
-    // $('#cutes-list').html(`
-    //     <div class="col">
-    //         <h2 class="text-center">Please Choose One Of The Cutes</h2>
-    //     </div>
-    // `);
     $("#fav-h5").html(`
             <h5 class="text-center mb-4" id="fav-h5">There Are No Cat Photos That You Like</h5>
         `);
