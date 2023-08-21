@@ -1,7 +1,7 @@
 # Cat Randomizer App
 
 <div align=center>
-  <img src='cat1.jpg' alt='thumbnail' />
+  <img src='./assets/cat1.jpg' alt='thumbnail' />
 </div>
 
 <p align=center>😻Cute Cat Wearing Clothes😻</p>
@@ -28,15 +28,15 @@ The Cat Randomizer application is a project that aims to display some informatio
 
 ## Project Results
 
-![Result 1](result1.png)
+![Result 1](./assets/result1.png)
 
-![Result 2](result2.png)
+![Result 2](./assets/result2.png)
 
-![Result 3](result3.png)
+![Result 3](./assets/result3.png)
 
-![Result 4](result4.png)
+![Result 4](./assets/result4.png)
 
-![Result 5](result5.png)
+![Result 5](./assets/result5.png)
 
 ---
 
