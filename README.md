@@ -1,6 +1,10 @@
 # Cat Randomizer App
 
-![Cute Cat](cat1.jpg)
+<div align=center>
+  <img src='cat1.jpg' alt='thumbnail' />
+</div>
+
+<p align=center>😻Cute Cat Wearing Clothes😻</p>
 
 The Cat Randomizer application is a project that aims to display some information about cats using the REST API from [TheCatAPI](https://thecatapi.com/). This application allows users to get pictures and information about cats with one click.
 
@@ -25,9 +29,13 @@ The Cat Randomizer application is a project that aims to display some informatio
 ## Project Results
 
 ![Result 1](result1.png)
+
 ![Result 2](result2.png)
+
 ![Result 3](result3.png)
+
 ![Result 4](result4.png)
+
 ![Result 5](result5.png)
 
 ---
