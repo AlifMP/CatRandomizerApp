@@ -1,7 +1,7 @@
 # Cat Randomizer App
 
 <div align=center>
-  <img src='./assets/cat1.jpg' alt='thumbnail' />
+  <img src='./assets/cat2.jpg' alt='thumbnail' />
 </div>
 
 <p align=center>😻Cute Cat Wearing Clothes😻</p>
