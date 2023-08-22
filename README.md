@@ -20,7 +20,8 @@ The Cat Randomizer application is a project that aims to display some informatio
 1. Make sure you have a code editor such as [Visual Studio Code](https://code.visualstudio.com/) installed on your computer.
 2. You can use `XAMPP` to run the project. But I suggest you to use `Live Server` extension in Visual Studio Code.
 3. Download the ZIP archive.
-4. Open Visual Studio Code and navigate to the directory you downloaded.
+4. Extract the file that you have downloaded.
+5. Open Visual Studio Code and navigate to the directory you downloaded.
 
 ## Use
 
